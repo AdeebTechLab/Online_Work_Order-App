@@ -4,14 +4,14 @@ plugins {
 
 android {
     namespace = "com.AdeebTechLab.OnlineWorkOrder"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.AdeebTechLab.OnlineWorkOrder"
         minSdk = 24
-        targetSdk = 34
-        versionCode = 3
-        versionName = "3.0"
+        targetSdk = 35
+        versionCode = 4
+        versionName = "0.4"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
